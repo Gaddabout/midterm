@@ -1,0 +1,18 @@
+Welcome to the Monthly Rainfall Average application! This app was written by Matthew Self
+for the CIS163AA 27873 mid-term project.
+
+Here are instructions for the program.
+
+Step 1. Compile MonthlyRainfallAverage.java in a Java compiler.
+
+Step 2. Run the application MonthlyAverageRainfall
+
+Step 3. Choose the number of years you will be measuring. Remember, this is the monthly Average
+		so three years of data, for example, will require 36 points of entry.
+		
+Step 4. Begin entering your data. The National Weather Service typically measures rain 
+		in inches, and to the one-hundredth inch. That is the standard we will be using.
+
+Step 5. Once you've completed entering monthly data for the number of years you've chosen,
+		the application will provide you with cumulative rainfall and the average rainfall
+		per month.
